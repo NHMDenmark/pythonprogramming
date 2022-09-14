@@ -17,15 +17,15 @@ The course is split into weekly two hour sessions each containing an introductio
       - Control statements: If-else, for, while
       - How to understand Pythons error messages (traceback)
 2. Next level:
-       - Structuring our code: Functions, modules, packages
-       - Variable scope
-       - Debugging - tricks and tips
-       - More data types: Lists, dictionaries
-       - Objects and classes
+      - Structuring our code: Functions, modules, packages
+      - Variable scope
+      - Debugging - tricks and tips
+      - More data types: Lists, dictionaries
+      - Objects and classes
 3. Excel spreadsheets in Python:
-       - Intro to the Pandas package
-       - Reading and writing Excel spreadsheets
-       - How to manipulate data in a Pandas Dataframe
+      - Intro to the Pandas package
+      - Reading and writing Excel spreadsheets
+      - How to manipulate data in a Pandas Dataframe
 4. Interacting with Web API's:
       - What is a Web API
       - Intro to the requests package
