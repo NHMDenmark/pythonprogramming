@@ -8,14 +8,14 @@ The course is split into weekly two hour sessions each containing an introductio
 ## Topics list
 
 1. The basics of programming:
-        - What is programming?
-        - Programming languages
-        - The Python interpreter
-        - Python programs a.k.a. scripts
-        - Variables and simple arithmetic
-        - Data types: Primitive types
-        - Control statements: If-else, for, while
-        - How to understand Pythons error messages (traceback)
+      - What is programming?
+      - Programming languages
+      - The Python interpreter
+      - Python programs a.k.a. scripts
+      - Variables and simple arithmetic
+      - Data types: Primitive types
+      - Control statements: If-else, for, while
+      - How to understand Pythons error messages (traceback)
 2. Next level:
        - Structuring our code: Functions, modules, packages
        - Variable scope
@@ -27,12 +27,12 @@ The course is split into weekly two hour sessions each containing an introductio
        - Reading and writing Excel spreadsheets
        - How to manipulate data in a Pandas Dataframe
 4. Interacting with Web API's:
-       - What is a Web API
-       - Intro to the requests package
-       - JSON and how to parse this format in Python
-       - A snippet of XML
-       - How to use the Specify Web API
-       - How to use the GBIF Web API
+      - What is a Web API
+      - Intro to the requests package
+      - JSON and how to parse this format in Python
+      - A snippet of XML
+      - How to use the Specify Web API
+      - How to use the GBIF Web API
 5. Relational databases:
       - What is a relational database
       - Databases we use: MySQL / MariaDB, SQLite3
@@ -57,4 +57,4 @@ The course is split into weekly two hour sessions each containing an introductio
 | 4 | Interacting with Web API's |
 | 5 | Relational databases |
 | 6 | How to use relational databases in Python |
-|---------|----------|
+
