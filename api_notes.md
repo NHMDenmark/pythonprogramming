@@ -15,7 +15,5 @@ This should give a response with a HTTP header and JSON payload.
 
 
 
-Basic programming notes:
-How to install python - follow this guide https://wiki.python.org/moin/BeginnersGuide/Download
 
 

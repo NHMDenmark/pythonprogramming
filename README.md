@@ -5,3 +5,8 @@ The prerequisite is that the attendant has a basic knowledge of spreadsheets, bu
 The course is split into weekly two hour sessions each containing an introduction lecture and pratical exercises.
 
 The course schedule can be found in the [plan.md](plan.md).
+
+## Choice of editor and python installation
+For beginners use [Thonny](https://thonny.org/).
+
+Clean installation of python follow this [guide](https://wiki.python.org/moin/BeginnersGuide/Download)
