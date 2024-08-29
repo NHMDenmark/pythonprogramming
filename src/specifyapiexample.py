@@ -80,7 +80,7 @@ print()
 
 
 
-# Query an object
+# Query information about a specific specimen
 headers = {'content-type': 'applicatiob/json', 'X-CSRFToken': csrftoken, 'Referer': baseURL}
 response = sess.get(baseURL + "api/specify/collectionobject/501269/", headers=headers)
 cookies = response.cookies
