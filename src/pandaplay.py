@@ -52,3 +52,7 @@ agents = pd.DataFrame(
 )
 
 
+
+
+# Join tables together
+df2 = pd.merge(df, agents, how='left', left_on='Collector', right_on='Short name')
