@@ -24,13 +24,13 @@ Plan for a three times 45 minutes workshop on basic programming and using Web AP
       - Reading and writing Excel spreadsheets
       - How to manipulate data in a Pandas Dataframe
       - More examples at [Pandas Getting Started](https://pandas.pydata.org/docs/getting_started/index.html)
-3. Interacting with Web API's:
+3. Interacting with Web API's ([see notes](api_notes.md)):
       - What is a Web API (server-client model)
       - Basic concepts of HTTP, request and response - its all about sending text messages
-      - Intro to the requests package
       - JSON and how to parse this format in Python
+      - Intro to the requests Python package
       - How to use the GBIF Web API
-      - (How to use the Specify Web API)
+      - (How to use the GBIF Web API)
 
 
 
