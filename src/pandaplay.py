@@ -51,6 +51,7 @@ agents = pd.DataFrame(
     }
 )
 
+df.info()
 
 
 
