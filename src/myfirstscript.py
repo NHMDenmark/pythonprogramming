@@ -1,6 +1,7 @@
 a = -3
-if a < 10:
+if a < 10: # and a>0:
     print("True")
+    print("Dumt!")
 else:
     print("False")
     
@@ -26,4 +27,5 @@ i = 0
 while i < 10:
     print("Hej %d" % i)
     i += 1
+    i = i + 1
     

@@ -6,3 +6,5 @@ print(foo("foo"))
 
 print(mm.foo("foo"))
 
+newtext=foo("mars")
+print(newtext)
