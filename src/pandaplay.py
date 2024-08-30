@@ -10,7 +10,7 @@ print(df)
 print(" Shape is " + str(df.shape))
 
 # Select Collector column
-print(df["Collector"])
+print(df["Collector"].unique())
 
 # Select rows containing Hjalmar Jensen. in Collector
 print(df["Collector"] == "Hjalmar Jensen.")
